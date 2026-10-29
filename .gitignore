@@ -1,0 +1,25 @@
+# Claude Code
+.claude/
+CLAUDE.md
+CLAUDE.local.md
+.mcp.json
+
+# Секреты (строка подключения к MySQL передаётся через DB_DSN)
+.env
+.env.*
+reverse/parser/*.csv
+
+# Собранные бинарники Go
+/main
+/NewEggedPage
+*.exe
+*.test
+*.out
+
+# macOS
+.DS_Store
+
+# IDE
+.idea/
+.vscode/
+*.swp
